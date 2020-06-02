@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="columnCount">列数：</string>
+    <string name="total">总数：</string>
+    <string name="btnText">显示</string>
+</resources>
